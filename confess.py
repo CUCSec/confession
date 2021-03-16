@@ -1,4 +1,4 @@
-confession = 'xiaohong wo ai ni'
+confession = 'Cyberpunk 2077, Hey Judy.'
 
 # 初始化一个空字符串保存编码结果
 message = ""
